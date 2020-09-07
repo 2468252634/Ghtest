@@ -139,8 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Exp09_D1119508_01_Mylist.cpp" />
+    <ClCompile Include="Exp12_4.cpp" />
     <ClCompile Include="源.cpp" />
-    <ClCompile Include="源1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
