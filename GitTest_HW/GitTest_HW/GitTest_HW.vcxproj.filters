@@ -18,7 +18,10 @@
     <ClCompile Include="源.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="源1.cpp">
+    <ClCompile Include="Exp12_4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Exp09_D1119508_01_Mylist.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
